@@ -15,8 +15,8 @@ var BasicStrategy = require('passport-http').BasicStrategy;
 var app = express();
 
 //Change the login and password to fit your needs
-let login = 'admin';
-let password = 'admin';
+let login = 'TobicDev';
+let password = 'Tobic123456';
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
